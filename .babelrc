@@ -8,7 +8,7 @@
       {
         "targets": { "node": "6.10" },
         "useBuiltIns": true,
-        "modules": "commonjs",
+        "modules": false,
         "loose": true
       }
     ],
